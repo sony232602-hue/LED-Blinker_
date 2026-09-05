@@ -1,0 +1,8 @@
+VCD info: dumpfile waveform.vcd opened for output.
+
+Time = 0   | Reset = 1 | LED = 0
+Time = 20  | Reset = 0 | LED = 0
+Time = 65  | Reset = 0 | LED = 1
+Time = 115 | Reset = 0 | LED = 0
+Time = 165 | Reset = 0 | LED = 1
+Time = 215 | Reset = 0 | LED = 0
